@@ -1,7 +1,7 @@
 	package mypkg;
 
 import java.util.Scanner;
-
+//update
 class HelloJava {
 	public static void main(String[] args){
 		if(args.length != 0)
