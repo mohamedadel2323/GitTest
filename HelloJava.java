@@ -9,5 +9,7 @@ class HelloJava {
 				System.out.print(args[i]+" ");
 		
 		System.out.println("modify by hassan");
+		System.out.println("modify by hassan2");
+		
 	}
 }
