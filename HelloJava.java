@@ -7,5 +7,9 @@ class HelloJava {
 		if(args.length != 0)
 			for(int i =0 ; i < args.length ; i++)
 				System.out.print(args[i]+" ");
+		
+		System.out.println("modify by hassan");
+		System.out.println("modify from master");
+
 	}
 }
