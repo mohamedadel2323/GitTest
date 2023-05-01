@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-//update2 in same line to make conflict
+//update3
 
 class HelloJava {
 	public static void main(String[] args){
