@@ -1,7 +1,7 @@
 	package mypkg;
 
 import java.util.Scanner;
-//update
+//update in same line to make conflict
 class HelloJava {
 	public static void main(String[] args){
 		if(args.length != 0)
